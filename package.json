@@ -1,0 +1,7 @@
+{
+  "name": "socical_DNH",
+  "version": "1.0.0",
+  "main": "src/server.ts",
+  "author": "Heo",
+  "license": "MIT"
+}
